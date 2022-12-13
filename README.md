@@ -16,22 +16,22 @@ Go to the project directory
 Install dependencies for Client And Server
 
 ```bash
-  cd server
+  cd backend
   npm install
 
-  cd client
+  cd frontend
   npm install
 ```
 
 Start the both server on seprate terminals
 
 ```bash
-  cd server
+  cd backend
   npm index.js
 ```
 
 ```bash
-  cd client
+  cd frontend
   npm start
 ```
 ```
